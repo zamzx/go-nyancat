@@ -38,7 +38,7 @@ func termSize() (int, int) {
 
 func playAudio() {
 	audio, _ := filepath.Abs("assets/audio.mp3")
-	cmd := exec.Command("mpg123", "-loop 0", "-q", audio)
+	cmd := exec.Command("mpg123", "-l 0", "-q", audio)
 	cmd.Start()
 }
 
