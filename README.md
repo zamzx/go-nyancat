@@ -1,3 +1,5 @@
+### ZAMZX WANTED NYAN CAT, SO ZAMZX FIXES
+
 # Go port of Nyancat CLI
 
 ![nyancat](http://i.imgur.com/4YSU5J6.gif)
@@ -5,7 +7,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/NARKOZ/go-nyancat.git
+git clone https://github.com/zamzx/go-nyancat.git
 cd go-nyancat && go build
 ```
 
