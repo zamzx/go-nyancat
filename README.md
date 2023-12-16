@@ -1,5 +1,6 @@
 ### ZAMZX WANTED NYAN CAT, SO ZAMZX FIXES
 
+the command line arguments for mpg -l did not work, so I subsitited -Z. Cheers ya'll. 
 # Go port of Nyancat CLI
 
 ![nyancat](http://i.imgur.com/4YSU5J6.gif)
