@@ -1,7 +1,6 @@
 ### ZAMZX WANTED NYAN CAT, SO ZAMZX FIXES
 
-the command line arguments for mpg -l did not work, so I subsitited -Z. Cheers ya'll. 
-# Go port of Nyancat CLI
+the command line arguments for mpg -l did not work, so I took it out. Add -Z if you want it to loop forever until pid death...lmk if you know the correct args for clean shutdown. 
 
 ![nyancat](http://i.imgur.com/4YSU5J6.gif)
 
