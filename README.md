@@ -1,4 +1,4 @@
-### ZAMZX WANTED NYAN CAT, SO ZAMZX FIXES
+### ZAMZX WANTED NYAN CAT, SO ZAMZX FIXES for macos Sonoma 14.1.1
 
 the command line arguments for mpg -l did not work, so I took it out. Add -Z if you want it to loop forever until pid death...lmk if you know the correct args for clean shutdown. 
 
